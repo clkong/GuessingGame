@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Sean Luo 27/03/2018
+ * GuessingGame.java
+ * This program calculates the GUessingGame
  */
 
 package guessinggame;
